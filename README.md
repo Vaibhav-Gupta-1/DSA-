@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
