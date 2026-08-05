@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0119-pascals-triangle-ii) |
@@ -28,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
