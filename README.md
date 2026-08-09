@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0728-self-dividing-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0022-generate-parentheses) |
+| [0412-fizz-buzz](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0412-fizz-buzz) |
 ## Backtracking
 |  |
 | ------- |
