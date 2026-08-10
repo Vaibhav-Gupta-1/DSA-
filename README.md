@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [3731-find-missing-elements](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -94,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
