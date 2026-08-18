@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Number Theory
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -164,5 +166,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
