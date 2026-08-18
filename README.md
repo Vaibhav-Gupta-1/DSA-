@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Linked List
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
