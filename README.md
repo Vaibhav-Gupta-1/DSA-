@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
 | ------- |
