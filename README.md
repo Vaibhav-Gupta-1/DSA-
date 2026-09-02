@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0148-sort-list) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -157,14 +158,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Stack
 |  |
 | ------- |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2351-first-letter-to-appear-twice) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
