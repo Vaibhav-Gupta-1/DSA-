@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0035-search-insert-position) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
