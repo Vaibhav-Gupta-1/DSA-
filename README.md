@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0503-next-greater-element-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0844-backspace-string-compare) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0993-cousins-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0993-cousins-in-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
