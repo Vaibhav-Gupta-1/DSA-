@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0908-smallest-range-i) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3871-count-commas-in-range-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
