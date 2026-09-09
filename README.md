@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0844-backspace-string-compare) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2351-first-letter-to-appear-twice) |
 ## Backtracking
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0844-backspace-string-compare) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
