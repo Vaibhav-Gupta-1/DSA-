@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
 | [0908-smallest-range-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0908-smallest-range-i) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0844-backspace-string-compare) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
