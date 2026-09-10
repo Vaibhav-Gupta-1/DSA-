@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0119-pascals-triangle-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0503-next-greater-element-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0503-next-greater-element-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0728-self-dividing-numbers) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0682-baseball-game) |
