@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2351-first-letter-to-appear-twice) |
 ## Backtracking
 |  |
