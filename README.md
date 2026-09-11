@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0205-isomorphic-strings) |
 | [0771-jewels-and-stones](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2351-first-letter-to-appear-twice) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0844-backspace-string-compare) |
