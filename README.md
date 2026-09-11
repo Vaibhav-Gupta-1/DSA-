@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0682-baseball-game) |
@@ -316,4 +317,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
