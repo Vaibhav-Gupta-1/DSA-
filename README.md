@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0226-invert-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0993-cousins-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0226-invert-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1367-linked-list-in-binary-tree) |
 ## Stack
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## String Matching
 |  |
