@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0085-maximal-rectangle) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0142-linked-list-cycle-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0023-merge-k-sorted-lists) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
