@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -320,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Doubly-Linked List
 |  |
