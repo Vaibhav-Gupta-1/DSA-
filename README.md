@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
 | [0908-smallest-range-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0908-smallest-range-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Recursion
 |  |
@@ -376,4 +379,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
