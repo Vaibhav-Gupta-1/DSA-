@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0771-jewels-and-stones) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2351-first-letter-to-appear-twice) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0844-backspace-string-compare) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search Tree
 |  |
@@ -386,5 +389,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
