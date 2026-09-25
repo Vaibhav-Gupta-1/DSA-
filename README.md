@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0119-pascals-triangle-ii) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1367-linked-list-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1367-linked-list-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1367-linked-list-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
 |  |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
 |  |
@@ -393,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
