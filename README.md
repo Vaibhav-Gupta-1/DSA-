@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1572-matrix-diagonal-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1572-matrix-diagonal-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
 | ------- |
