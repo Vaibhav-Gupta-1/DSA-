@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0771-jewels-and-stones) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2351-first-letter-to-appear-twice) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2351-first-letter-to-appear-twice) |
 ## Backtracking
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search Tree
 |  |
