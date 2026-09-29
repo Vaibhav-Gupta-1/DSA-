@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
 | [0908-smallest-range-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1046-last-stone-weight) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1572-matrix-diagonal-sum) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1046-last-stone-weight) |
 ## Tournament Sort
 |  |
 | ------- |
