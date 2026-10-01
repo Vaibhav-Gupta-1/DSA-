@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3871-count-commas-in-range-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
