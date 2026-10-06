@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0141-linked-list-cycle) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0912-sort-an-array) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0387-first-unique-character-in-a-string) |
