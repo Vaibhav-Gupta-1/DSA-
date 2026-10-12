@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0503-next-greater-element-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0503-next-greater-element-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0547-number-of-provinces) |
 | [0993-cousins-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0993-cousins-in-binary-tree) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
