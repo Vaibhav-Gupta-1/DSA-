@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
