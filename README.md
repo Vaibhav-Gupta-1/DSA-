@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0912-sort-an-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Doubly-Linked List
 |  |
 | ------- |
