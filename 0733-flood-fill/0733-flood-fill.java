@@ -1,19 +1,36 @@
+class Pair{
+    int sr;
+    int sc;
+    Pair(int sr, int sc){
+        this.sr = sr;
+        this.sc = sc;
+    }
+}
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int originalColor = image[sr][sc];
-        if(originalColor == color)  return image;
-        dfs(image, sr, sc, originalColor, color);
-        return image;
-    }
-    public void dfs(int[][] image, int sr, int sc, int originalColor, int color){
-        int n = image.length;
-        int m = image[0].length;
-        if(sr<0 || sr>=n || sc<0 || sc>=m)  return;
-        if(image[sr][sc] != originalColor)  return;
+        int m = image.length;
+        int n = image[0].length;
+        int oldColor = image[sr][sc];
+        if(oldColor == color)   return image;
+        Queue<Pair> q = new LinkedList<>();
+        q.offer(new Pair(sr,sc));
         image[sr][sc] = color;
-        dfs(image,sr+1,sc,originalColor,color);
-        dfs(image,sr-1,sc,originalColor,color);
-        dfs(image,sr,sc+1,originalColor,color);
-        dfs(image,sr,sc-1,originalColor,color);
+        int dx[] = {-1,1,0,0};
+        int dy[] = {0,0,-1,1};
+        while(!q.isEmpty()){
+            Pair it = q.peek();
+            int i = it.sr;
+            int j = it.sc;
+            q.poll();
+            for(int k=0; k<4; k++){
+                int a = i+dx[k];
+                int b = j+dy[k];
+                if (a>=0 && a<m && b>=0 && b<n && image[a][b] == oldColor){
+                    image[a][b] = color;
+                    q.offer(new Pair(a, b));
+                }
+            }
+        }
+        return image;
     }
 }
