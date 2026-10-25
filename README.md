@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1721-swapping-nodes-in-a-linked-list) |
