@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0450-delete-node-in-a-bst) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0450-delete-node-in-a-bst) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0187-repeated-dna-sequences) |
+| [0222-count-complete-tree-nodes](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
