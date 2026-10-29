@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Math
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2351-first-letter-to-appear-twice) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0912-sort-an-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3731-find-missing-elements) |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1046-last-stone-weight) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -444,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Doubly-Linked List
 |  |
