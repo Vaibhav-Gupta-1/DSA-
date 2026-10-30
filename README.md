@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0022-generate-parentheses) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
