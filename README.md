@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
