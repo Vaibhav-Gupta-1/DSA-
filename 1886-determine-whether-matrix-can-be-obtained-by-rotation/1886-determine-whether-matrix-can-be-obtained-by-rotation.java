@@ -1,8 +1,8 @@
 class Solution {
     public boolean findRotation(int[][] mat, int[][] target) {
         for(int i=0;i<4;i++){
-            if(isEqual(mat,target)) return true;
             rotate(mat);
+            if(isEqual(mat,target)) return true;
         }
         return false;
     }
@@ -16,10 +16,14 @@ class Solution {
             }
         }
         for(int i=0;i<n;i++){
-            for(int j=0;j<n/2;j++){
-                int temp = mat[i][j];
-                mat[i][j] = mat[i][n-1-j];
-                mat[i][n-1-j] = temp;
+        int start = 0;
+        int end = n-1;
+        while(start<end){
+            int temp = mat[i][start];
+            mat[i][start] = mat[i][end];
+            mat[i][end] = temp;
+            start++;
+            end--;
             }
         }
     }
