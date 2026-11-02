@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0728-self-dividing-numbers](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0908-smallest-range-i) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0912-sort-an-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
