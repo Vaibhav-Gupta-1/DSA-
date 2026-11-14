@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0219-contains-duplicate-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0119-pascals-triangle-ii) |
+| [0198-house-robber](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0198-house-robber) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
 |  |
