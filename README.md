@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0412-fizz-buzz) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0119-pascals-triangle-ii) |
@@ -565,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0075-sort-colors) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
