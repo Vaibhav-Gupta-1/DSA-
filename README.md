@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/2351-first-letter-to-appear-twice) |
 ## Backtracking
 |  |
