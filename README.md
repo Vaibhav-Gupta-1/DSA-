@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/0844-backspace-string-compare) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Vaibhav-Gupta-1/DSA-/tree/master/1003-check-if-word-is-valid-after-substitutions) |
